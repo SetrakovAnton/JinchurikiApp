@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:meta/meta.dart';
 import 'unit.dart';
 import 'Avatars.dart';
-import 'package:photo_view/photo_view.dart';
 
 class ConverterRoute extends StatelessWidget {
   final Color color;

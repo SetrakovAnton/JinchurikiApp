@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:meta/meta.dart';
-import 'category_route.dart';
 import 'unit.dart';
 import 'converter_route.dart';
 

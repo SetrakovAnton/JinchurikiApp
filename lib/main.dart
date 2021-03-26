@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'category_route.dart';
-import 'description.dart';
-import 'category.dart';
 
 
 void main(){
